@@ -4,7 +4,6 @@
   переключая тему
 */
 
-
 .page.theme_dark {
   --background-image: url("../images/cover-image-dark.png");
   --accent-color: #ff0070;

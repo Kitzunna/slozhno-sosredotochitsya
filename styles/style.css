@@ -1,6 +1,5 @@
 /* Основные стили проекта. Это стили для темы, которую вы верстаете первой. */
 
-
 .page {
   font-family: var(--font-family);
   background-color: var(--background-color);
@@ -240,7 +239,7 @@
     grid-column: 1 / 4;
   }
 
-  .topic > .title_decor{
+  .topic > .title_decor {
     grid-column: 2 / 3;
   }
 
