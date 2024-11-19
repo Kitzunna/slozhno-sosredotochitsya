@@ -219,6 +219,10 @@
     display: grid;
     gap: 0;
   }
+
+  .consentration__gap {
+    padding-bottom: 20px;
+  }
 }
 
 @media (width >= 768px) {
