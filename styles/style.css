@@ -214,6 +214,13 @@
   line-height: var(--title-line-height);
 }
 
+@media (width >= 375px) {
+  .topic__nogap {
+    display: grid;
+    gap: 0;
+  }
+}
+
 @media (width >= 768px) {
   .header {
     padding: 20px;
